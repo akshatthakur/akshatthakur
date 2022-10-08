@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akshatthakur.
 - 👀 I’m interested in data science, philosophical fiction, and jazz, alt-rock and new wave.
-- 🌱 I’m a Data Analyst at Klue.
 - 💞️ I’m looking to collaborate on any cool open-source AI/ML projects.
 - 📫 Reach me at akshatvsthakur@gmail.com
 
